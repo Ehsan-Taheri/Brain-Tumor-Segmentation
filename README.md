@@ -1,6 +1,8 @@
 # Brain-Tumor-Classification
 
-About The Dataset
+About The Dataset:
+
+
 The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS) is a challenge focused on brain tumor segmentation and occurs on an yearly basis on MICCAI. This dataset, from the 2015 challenge, contains data and expert annotations on four types of MRI images:
 
 T1
