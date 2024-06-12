@@ -27,3 +27,8 @@ Image Preprocessing
 
 For reading the .mha extension file SimpleITK library is used
 For visulization of the image the image is converted into 2D slices.
+
+Refrences:
+https://www.sciencedirect.com/science/article/pii/S1877050920307614
+https://www.nature.com/articles/s41598-021-90428-8
+https://www.mdpi.com/2075-4418/13/16/2650
