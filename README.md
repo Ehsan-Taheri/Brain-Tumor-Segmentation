@@ -28,6 +28,10 @@ Image Preprocessing
 For reading the .mha extension file SimpleITK library is used
 For visulization of the image the image is converted into 2D slices.
 
+<img width="910" alt="Screenshot 2024-06-29 at 18 17 10" src="https://github.com/Ehsan-Taheri/Brain-Tumor-Segmentation/assets/24533827/90762a28-6ffe-4a21-a29a-6e9e2600ae24">
+
+
+
 Refrences:
 https://www.sciencedirect.com/science/article/pii/S1877050920307614
 https://www.nature.com/articles/s41598-021-90428-8
