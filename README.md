@@ -1,4 +1,4 @@
-# Brain-Tumor-Classification
+# Brain-Tumor-Segmentation
 
 About The Dataset:
 
